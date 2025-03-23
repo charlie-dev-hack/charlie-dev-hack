@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @charlie-dev-hack
-Soy un **Ingeniero de Sistemas** apasionado por la tecnología y la resolución de problemas a través del código. Me especializo en el desarrollo de aplicaciones backend, con experiencia en **Java, Spring Boot, JavaScript y React**.  
+Soy un **Ingeniero de Sistemas** apasionado por la tecnología y la resolución de problemas a través del código. Me gusta el desarrollo de aplicaciones backend, en **Java, Spring Boot, JavaScript y React**.  
 
 Actualmente, me encuentro en constante aprendizaje, explorando nuevas tecnologías y mejorando mis habilidades en **arquitectura de software, bases de datos y metodologías ágiles**. Me gusta trabajar en proyectos desafiantes que me permitan crecer como profesional y aportar valor a la comunidad.  
 
