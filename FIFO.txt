@@ -1,0 +1,8 @@
+7
+Proceso A, 20
+Proceso B, 40
+Proceso D, 78
+Proceso E, 19
+Proceso F, 52
+Proceso G, 92
+Proceso H, 89

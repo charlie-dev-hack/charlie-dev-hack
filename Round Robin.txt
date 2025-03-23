@@ -1,0 +1,5 @@
+3
+Proceso A, 10
+Proceso B, 40
+Proceso C, 16
+5
